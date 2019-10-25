@@ -4,15 +4,7 @@ import PostList from './PostList';
 const App = () => {
     return (
         <div className="ui container">
-            <PostList />
-            <div className="ui row">
-                <div className="column eight wide">
-                   
-                </div>
-                <div className="column eight wide">
-                    
-                </div>
-            </div>
+            <PostList />           
         </div>
     );
 };
